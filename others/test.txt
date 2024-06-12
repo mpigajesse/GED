@@ -1,0 +1,2 @@
+je viens de teste la mise à jour du projet sans importation 
+e l'envrionnement virtuelle qui dans mon projet en local.

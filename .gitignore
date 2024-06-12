@@ -19,7 +19,10 @@ __pycache__/
 *.pyo
 .env
 .venv
+
+#mon environnement virtuelle
 myenv/
+myenv/bin/
 env/
 venv/
 ENV/
